@@ -1,0 +1,14 @@
+LIBRARY FILES : 
+
+C:\LIBRARIES\vcpkg\packages\tesseract_x64-windows\lib
+C:\LIBRARIES\vcpkg\packages\leptonica_x64-windows\lib
+
+DLL FILES :
+
+C:\LIBRARIES\vcpkg\packages\tesseract_x64-windows\tools\tesseract
+C:\LIBRARIES\vcpkg\packages\leptonica_x64-windows\bin  -- NOT NECESSARY
+
+HEADER FILES _ INCLUDE -
+
+C:\LIBRARIES\vcpkg\packages\tesseract_x64-windows\include\tesseract
+C:\LIBRARIES\vcpkg\packages\leptonica_x64-windows\include\leptonica
